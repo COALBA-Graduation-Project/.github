@@ -1,9 +1,14 @@
 <img src="https://github.com/COALBA-Graduation-Project/COALBA-BE/assets/65665065/1d02429d-906e-4ed1-ae45-410e7e8577e4" width="55%" height="55%"/>
 
 ## 기획 의도
+- **잦은 알바 스케줄 변동** ➡️ 스케줄에 변동이 생긴 경우 여러 공지된 시간표로 인해 최종 스케줄을 파악하기 어려움 
+- **번거로운 대타요청** ➡️ 대타요청 시 다른 알바생, 사장님에게 여러 번 연락해야 하며, 요청 성사 시 사장님은 스케줄 근무자를 변경하고 재공지해야 함
+- **다양한 서비스 필요** ➡️ 근태관리, 급여관리 등 아르바이트에 필요한, 다양한 서비스를 한 곳에서 이용하고 싶음
 <br/>
 
 ## 프로젝트 소개
+> COALBA에서는 사장님과 알바생이 함께하는 공간 워크스페이스에서 공유된 스케줄표를 확인할 수 있으며 보다 편리한 대타요청으로 
+요청 승인 시 자동으로 스케줄 근무자가 변경됩니다. 또한 비콘 기반 근태관리와 이에 따른 급여확인까지 오직 한 앱에서 이용 가능합니다.
 <br/>
 
 ### 와이어 프레임
@@ -18,6 +23,10 @@ https://coalba.gitbook.io/coalba-api/
 ![image](https://github.com/COALBA-Graduation-Project/.github/assets/65665065/a644a6be-18b4-40d5-8f2b-25abd5cba228)
 <br/>
 
+### 개발 환경 및 구조
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/47990b44-672c-43ca-aa44-5205c4b55107" width="70%" height="70%"/>
+<br/>
+
 ### 사장 앱 기능 플로우
 <img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/d7d34231-d470-4c9c-9299-eb5e946c7ae9" width="55%" height="55%"/>
 
@@ -25,16 +34,26 @@ https://coalba.gitbook.io/coalba-api/
 <img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/28ac3313-db8d-428c-b886-7744c8e014e3" width="55%" height="55%"/>
 <br/>
 
+### 개발 기간
+| 기간 | 활동 |
+|------|-----|
+| 2022.9월 초 ~ 10월 말 | 와이어프레임 제작, 서비스 기획, DB & API 설계, 화면 구현 |
+| 2022.11월 ~ 2023.2월 중순 | API 개발, 화면 구현 |
+| 2023.2월 말 ~ 2023.3월 말 | API 연동, 리팩토링 및 마무리 |
+
 ## 주요 기능 
+
 <br/>
 
 ## 주요 화면
+
 <br/>
 
-## 팀원 및 역할 
+## 팀원 및 역할
 | 팀원 | 역할 |
 |------|-----|
-| 김다은 | |
+| 공통 | 와이어 프레임 제작, 서비스 기획 |
+| 김다은 | 구글&네이버 로그인, 프로필&워크스페이스&스케줄 API, Beacon 구현, AWS 배포 |
 | 신지연 | |
 | 조예진 | |
 <br/>
