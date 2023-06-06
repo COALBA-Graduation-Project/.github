@@ -43,37 +43,37 @@ https://coalba.gitbook.io/coalba-api/
 
 ## 주요 기능 
 ### 공통
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/783d2784-e3c1-4870-a015-4d011d3e2ad4" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/5cb63530-d759-4cb2-9c20-3382805cc156" width="80%" height="80%"/>
 <br/>
 <br/>
 
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/9046c913-ce74-4c35-b130-09c0fc3972d8" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/6b96d9a8-76a1-4c2f-a3d2-6675dd5f59a0" width="80%" height="80%"/>
 <br/>
 <br/>
 
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/b4b15efa-f5ed-44a1-acc3-5b967ef3a421" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/d3e995e5-2d94-4eb3-b46b-4a7ff63c5c15" width="80%" height="80%"/>
 <br/>
 <br/>
 
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/d0bfbe1e-9277-44c3-81bd-60fef9a32e08" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/17a20d6d-6abf-4f5c-8970-61c148acc88d" width="80%" height="80%"/>
 <br/>
 <br/>
 
 ### 사장
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/770097e7-4419-4473-846c-0468ff1221e2" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/b62aeb16-db5a-4636-9538-4117fe679d4b" width="80%" height="80%"/>
 <br/>
 <br/>
 
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/641311a6-5f78-4a96-aaff-a25a6bde94c4" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/f7b0f58e-268e-43ed-a323-84434535fcd7" width="80%" height="80%"/>
 <br/>
 <br/>
 
 ### 알바
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/b6d6472e-d24e-4b45-8e42-3c78849f5340" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/5e135165-afcc-4577-b8de-8d0828cc1ef4" width="80%" height="80%"/>
 <br/>
 <br/>
 
-<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/cf9953f6-82ec-44e9-8f46-7fcb2784efe4" width="80%" height="80%"/>
+<img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/18314727-c472-439b-aaf0-3cc4cbf80043" width="80%" height="80%"/>
 <br/>
 <br/>
 
