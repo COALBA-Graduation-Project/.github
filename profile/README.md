@@ -41,6 +41,10 @@ https://coalba.gitbook.io/coalba-api/
 | 2023.2월 말 ~ 2023.3월 말 | API 연동, 리팩토링 및 마무리 |
 <br/>
 
+### 프로젝트 관련 논의
+https://github.com/COALBA-Graduation-Project/COALBA-BE/discussions
+<br/>
+
 ## 주요 기능 
 ### 공통
 <img src="https://github.com/COALBA-Graduation-Project/.github/assets/65665065/5cb63530-d759-4cb2-9c20-3382805cc156" width="80%" height="80%"/>
